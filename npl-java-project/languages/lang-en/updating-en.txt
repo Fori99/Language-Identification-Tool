@@ -1,0 +1,3 @@
+This is an English text.
+A tutorial on wait and notify; low-level thread synchronisation methods in Java that allow you to avoid having vile process-consuming polling loops in your code. Code on caveofprogramming.com. Wait and notify allow you to have sleeping threads that are woken up by other threads. "Why, exactly what I've been looking for!" I hear you say. Yes, even people who don't program in Java can enjoy using these fantastic methods. OK, maybe that's going a bit far.
+John Christopher Depp II (born June 9, 1963) is an American actor and musician. He is the recipient of multiple accolades, including a Golden Globe Award and a Screen Actors Guild Award, in addition to nominations for three Academy Awards and two BAFTA awards. 

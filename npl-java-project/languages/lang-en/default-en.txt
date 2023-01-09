@@ -1,0 +1,164 @@
+Ariu Zi
+#5862
+
+ParEz — 12/11/2022 10:45 PM
+Hahahahahaha
+Super
+Ariu Zi — 12/11/2022 10:45 PM
+vk
+ParEz — 12/12/2022 2:42 AM
+Lol
+21. Discuss the advantages of sudo over logging in to the root account. (10%)
+
+The advantages of using sudo. Used properly, the sudo utility can greatly enhance the security of your systems, and it can make an administrator's job much easier. With sudo, you can do the following: Assign certain users full administrative privileges, while assigning other users only the privileges they need to perform tasks that are directly related to their respective jobs. Allow users to perform administrative tasks by entering their own normal user passwords so that you don't have to distribute the root password to everybody and his brother. Make it harder for intruders to break into your systems. If you implement sudo and disable the root user account, would-be intruders won't know which account to attack because they won't know which one has admin privileges. 
+22. Explain Linux process niceness and its effect on scheduling priority. (5%)
+23. Explain the role of systemctl subcommands: start, stop, status, restart, reload, enable, disable, isolate, and set-default, in managing systemd services and targets. (10%)
+systemctl is a controlling interface and inspection tool for the widely-adopted init system and service manager systemd. This guide will cover how to use systemctl to manage systemd services, work with systemd Targets and extract meaningful information about your system’s overall state.
+Expand
+message.txt
+5 KB
+Ariu Zi — 12/12/2022 6:24 AM
+brb
+eee
+po bej 1 dush edhe un
+si thu
+ParEz — 12/12/2022 6:28 AM
+Okj
+Ariu Zi — 12/12/2022 6:28 AM
+do pim naj kafe
+ParEz — 12/12/2022 6:29 AM
+How
+Tvij tani andej thua
+E pstj gabrielsi tna mari?
+Ariu Zi — 12/12/2022 6:29 AM
+po m
+si ta kesh
+po nuk pertoce
+ParEz — 12/12/2022 6:29 AM
+Ja tshof si behem gati
+Ariu Zi — 12/12/2022 6:29 AM
+pertove*
+hahaah
+oke
+m thuaj
+ParEz — 12/12/2022 6:29 AM
+Yep
+Ariu Zi — 12/12/2022 6:57 AM
+ca do bejm
+ParEz — 12/12/2022 7:09 AM
+Jam 1 or larg nona
+Hahahaha
+Idk
+Sa e beshme esht
+Un me e pi du
+Se dhe kshu srri dit deri n8
+Ariu Zi — 12/12/2022 7:10 AM
+hahahahh
+lol
+je ca larg
+ParEz — 12/12/2022 7:11 AM
+Fucked up
+Ariu Zi — 12/12/2022 7:11 AM
+e pim mbas shkolle
+vk
+po e mbyll pc nje her
+flasim n wp
+ParEz — 12/12/2022 7:12 AM
+Okj
+ParEz — 12/15/2022 1:52 AM
+ca je tu bo m
+Ariu Zi — 12/15/2022 3:18 PM
+ehee
+tani e pash kte
+xD
+ParEz — 12/15/2022 3:18 PM
+Hahaha
+ParEz — 12/18/2022 10:52 PM
+https://sites.google.com/view/unyt-advjava22/
+Advanced Java
+Image
+ParEz — 12/26/2022 2:20 AM
+qe i qiu motren tipit :v
+ParEz — 12/26/2022 11:52 PM
+https://discord.gg/6DHFfGma
+ParEz — 12/27/2022 9:26 PM
+https://www.dropbox.com/s/ebtdezawaotmo4o/cex.rar?dl=0
+Dropbox
+cex.rar
+Shared with Dropbox
+Image
+ParEz — 12/30/2022 8:21 PM
+@Ariu Zi
+ParEz — Yesterday at 7:08 PM
+
+import java.io.*;
+import java.nio.file.*;
+import java.util.*;
+import java.util.stream.*;
+
+Expand
+message.txt
+5 KB
+ParEz — Today at 12:15 AM
+Your girlfriend bought your favorite cookie crisp cereal but forgot to get milk.
+That was how he came to win $1 million.
+The best key lime pie is still up for debate.
+Best friends are like old tomatoes and shoelaces.
+Red is greener than purple, for sure.
+There were three sphered rocks congregating in a cubed room.
+Expand
+message.txt
+4 KB
+﻿
+Your girlfriend bought your favorite cookie crisp cereal but forgot to get milk.
+That was how he came to win $1 million.
+The best key lime pie is still up for debate.
+Best friends are like old tomatoes and shoelaces.
+Red is greener than purple, for sure.
+There were three sphered rocks congregating in a cubed room.
+She tilted her head back and let whip cream stream into her mouth while taking a bath.
+To the surprise of everyone, the Rapture happened yesterday but it didn't quite go as expected.
+For the 216th time, he said he would quit drinking soda after this last Coke.
+Too many prisons have become early coffins.
+They wandered into a strange Tiki bar on the edge of the small beach town.
+He drank life before spitting it out.
+They desperately needed another drummer since the current one only knew how to play bongos.
+Edith could decide if she should paint her teeth or brush her nails.
+He found a leprechaun in his walnut shell.
+Plans for this weekend include turning wine into water.
+He dreamed of leaving his law firm to open a portable dog wash.
+David proudly graduated from high school top of his class at age 97.
+The secret code they created made no sense, even to them.
+I've traveled all around Africa and still haven't found the gnu who stole my scarf.
+The underground bunker was filled with chips and candy.
+When nobody is around, the trees gossip about the people who have walked under them.
+Dan ate the clouds like cotton candy.
+Green should have smelled more tranquil, but somehow it just tasted rotten.
+Henry couldn't decide if he was an auto mechanic or a priest.
+At that moment I was the most fearsome weasel in the entire swamp.
+The fog was so dense even a laser decided it wasn't worth the effort.
+When confronted with a rotary dial phone the teenager was perplexed.
+If you spin around three times, you'll start to feel melancholy.
+He put heat on the wound to see what would grow.
+She had that tint of craziness in her soul that made her believe she could actually make a difference.
+Swim at your own risk was taken as a challenge for the group of Kansas City college students.
+The gruff old man sat in the back of the bait shop grumbling to himself as he scooped out a handful of worms.
+She folded her handkerchief neatly.
+He felt that dining on the bridge brought romance to his relationship with his cat.
+Written warnings in instruction manuals are worthless since rabbits can't read.
+Iron pyrite is the most foolish of all minerals.
+She wanted a pet platypus but ended up getting a duck and a ferret instead.
+You can't compare apples and oranges, but what about bananas and plantains?
+As he waited for the shower to warm, he noticed that he could hear water change temperature.
+They improved dramatically once the lead singer left.
+If my calculator had a history, it would be more embarrassing than my browser history.
+The blinking lights of the antenna tower came into focus just as I heard a loud snap.
+Lightning Paradise was the local hangout joint where the group usually ended up spending the night.
+The newly planted trees were held up by wooden frames in hopes they could survive the next storm.
+The tattered work gloves speak of the many hours of hard labor he endured throughout his life.
+The bug was having an excellent day until he hit the windshield.
+He said he was not there yesterday; however, many people saw him there.
+He enjoys practicing his ballet in the bathroom.
+The tortoise jumped into the lake with dreams of becoming a sea turtle.
+message.txt
+4 KB
