@@ -1,4 +1,5 @@
 # Language Identification Tool
+### Advance Java Coursework
 
 This project is a tool for identifying the language of a given text. It compares the text to texts in the Albanian and English languages using n-grams and determines which language the text is most similar to.
 
